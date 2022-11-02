@@ -1,0 +1,5 @@
+#Initial minimisation of our complex
+ &cntrl
+  imin=1,maxcyc=6000,ncyc=3000,
+  cut=8,ntp=1,igb=0,
+ /
