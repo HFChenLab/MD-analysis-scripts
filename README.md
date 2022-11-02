@@ -1,4 +1,4 @@
-# Original Datasets and analysis scripts
+# Original MD Datasets and analysis scripts
 
 
 Paper Title: Phosphorylation Regulation Mechanism of β2 Integrin for the Binding of Filamin Revealed by Markov State Model
