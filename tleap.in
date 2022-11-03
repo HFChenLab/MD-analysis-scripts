@@ -1,0 +1,12 @@
+source leaprc.protein.ff03.r1
+source leaprc.water.tip4pew
+loadoff atomic_ions.lib
+loadamberprep ./ffptm.in
+loadamberparams ./TPO.frcmod
+a=loadpdb 2jf1T758p.pdb
+check a
+addions a Na+ 0
+addions a Cl- 0
+solvateoct a TIP4PEWBOX 10
+saveamberparm a 2jf1T758pAn.top 2jf1T758p.crd
+quit
