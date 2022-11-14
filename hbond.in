@@ -1,0 +1,8 @@
+trajin 2jf1wt_final.md1.crd 40001 50000 5
+
+autoimage
+strip :WAT:Na+:Cl-
+
+
+hbond donormask :1-92 acceptormask :93-103 out ./Hbond/2jf1wt1_interface_nhb1.dat avgout ./Hbond/2jf1wt1_interface_avghb1.dat angle 120 dist 3.5
+hbond donormask :93-103 acceptormask :1-92 out ./Hbond/2jf1wt1_interface_nhb2.dat avgout ./Hbond/2jf1wt1_interface_avghb2.dat angle 120 dist 3.5

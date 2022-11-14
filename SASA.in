@@ -1,0 +1,39 @@
+trajin 2jf1wt_final.md1.crd 40001 50000 5
+
+autoimage
+strip :WAT:Na+:Cl-
+
+
+surf :33 out ./SASA_2jf1wtS0_33.dat
+surf :34 out ./SASA_2jf1wtS0_34.dat
+surf :35 out ./SASA_2jf1wtS0_35.dat
+surf :36 out ./SASA_2jf1wtS0_36.dat
+surf :37 out ./SASA_2jf1wtS0_37.dat
+surf :38 out ./SASA_2jf1wtS0_38.dat
+surf :39 out ./SASA_2jf1wtS0_39.dat
+surf :40 out ./SASA_2jf1wtS0_40.dat
+surf :41 out ./SASA_2jf1wtS0_41.dat
+
+surf :45 out ./SASA_2jf1wtS0_45.dat
+surf :46 out ./SASA_2jf1wtS0_46.dat
+surf :47 out ./SASA_2jf1wtS0_47.dat
+surf :48 out ./SASA_2jf1wtS0_48.dat
+surf :49 out ./SASA_2jf1wtS0_49.dat
+surf :50 out ./SASA_2jf1wtS0_50.dat
+surf :51 out ./SASA_2jf1wtS0_51.dat
+
+surf :93 out ./SASA_2jf1wtS0_93.dat
+surf :94 out ./SASA_2jf1wtS0_94.dat
+surf :95 out ./SASA_2jf1wtS0_95.dat
+surf :96 out ./SASA_2jf1wtS0_96.dat
+surf :97 out ./SASA_2jf1wtS0_97.dat
+surf :98 out ./SASA_2jf1wtS0_98.dat
+surf :99 out ./SASA_2jf1wtS0_99.dat
+surf :100 out ./SASA_2jf1wtS0_100.dat
+surf :101 out ./SASA_2jf1wtS0_101.dat
+surf :102 out ./SASA_2jf1wtS0_102.dat
+surf :103 out ./SASA_2jf1wtS0_103.dat
+
+surf :33-41 out ./SASA_2jf1wtS0_1.dat
+surf :45-51 out ./SASA_2jf1wtS0_2.dat
+surf :93-103 out ./SASA_2jf1wtS0_3.dat

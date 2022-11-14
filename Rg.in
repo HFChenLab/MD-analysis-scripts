@@ -1,0 +1,8 @@
+trajin 2jf1wt_final.md1.crd
+
+
+
+autoimage
+strip :WAT:Na+:Cl-
+radgyr :33-34,100-102&!(@H=) out 2JF1wt_Rg.dat mass nomax
+

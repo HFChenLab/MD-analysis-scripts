@@ -1,0 +1,8 @@
+trajin 2jf1wt_final.md1.crd
+
+autoimage
+strip :WAT:Na+:Cl-
+
+nativecontacts name NC1 :1-92&!(@CA,C,O,N,H) :93-103&!(@CA,C,O,N,H) byresidue writecontacts ../Contact/2jf1wt_contacts.dat out ../Contact/2jf1wt_numcontacts.dat first distance 6.5
+
+
