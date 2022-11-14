@@ -1,4 +1,4 @@
-# MD analysis scripts
+# Molecular dynamics simulation analysis scripts
 
 
 Paper Title: Phosphorylation Regulation Mechanism of β2 Integrin for the Binding of Filamin Revealed by Markov State Model
